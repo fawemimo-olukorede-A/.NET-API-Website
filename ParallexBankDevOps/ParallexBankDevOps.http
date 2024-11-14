@@ -1,0 +1,6 @@
+@ParallexBankDevOps_HostAddress = http://localhost:5167
+
+GET {{ParallexBankDevOps_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
